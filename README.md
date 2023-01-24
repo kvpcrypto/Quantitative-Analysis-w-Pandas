@@ -1,4 +1,4 @@
-# Quantitative analysis with Pandas
+# Quantitative Analysis with Pandas
 ---
 # Risk Return Analysis
 
