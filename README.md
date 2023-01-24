@@ -1,4 +1,4 @@
-# UWFinTechModule4
+# Quantitative analysis with Pandas
 ---
 # Risk Return Analysis
 
