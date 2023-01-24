@@ -24,5 +24,5 @@ In this analysis the daily returns, standard deviation, sharpe ratios, and betas
 
 ## Contributors
 
-UW FinTech
-Kenny Pham
+UW FinTech  
+Kenny Pham  
