@@ -6,11 +6,11 @@ This analysis will evaluate the performance of four hedge-fund managers in relat
 
 ## Technologies
 
-Jupyter Notebook
-Pandas 
-pathlib 
-numpy 
-%matplotlib inline
+Jupyter Notebook  
+Pandas  
+pathlib   
+numpy   
+%matplotlib inline  
 
 ## Usage
 
